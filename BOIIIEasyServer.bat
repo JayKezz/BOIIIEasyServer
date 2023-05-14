@@ -4,7 +4,7 @@
 
 
 :: Choose a path where you want to install boiii server
-:: Example: set "BOIIIServerInstallPath=C:\Users\Administrator\Documents\bo3 server"
+:: Example: set "BOIIIServerInstallPath=C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\UnrankedServer
 set "BOIIIServerInstallPath="
 
 :: Choose a path where you want to install steamcmd
